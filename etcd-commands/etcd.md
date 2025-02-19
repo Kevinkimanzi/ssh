@@ -6,13 +6,13 @@
  
 #### version
 
- '''bash
+ ```bash
  etcdctl version
- '''
+ ```
  
 #### Here is the command to set the value of key foo to bar
 
- '''bash
+ ```bash
  etcdctl put foo bar
- '''
+ ```
 
